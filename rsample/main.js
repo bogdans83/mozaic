@@ -1,3 +1,5 @@
-require(["js/two"], function(two){
-	two.init();
+require(["cs!js/three"], function(three){
+//require(["js/two"], function(three){
+	console.log(three);
 });
+
