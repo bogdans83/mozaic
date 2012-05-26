@@ -1,4 +1,4 @@
-define("mod-two", ["mod-one"], function(one) {
+define(["js/one"], function(one) {
 	return {
 		init: function() {
 			one.init();

@@ -1,3 +1,3 @@
-require(["js/one"], function(){
-	console.log(arguments);
+require(["js/two"], function(two){
+	two.init();
 });

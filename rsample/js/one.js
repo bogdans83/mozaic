@@ -1,4 +1,4 @@
-define("mod-one", function() {
+define(function() {
 	return {
 		init: function() {
 			var one = document.createElement('div');
