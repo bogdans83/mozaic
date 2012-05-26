@@ -1,0 +1,13 @@
+[{
+    "name": "core",
+    "modules": [
+        "js/one",
+        "js/two",
+        "cs!js/three"
+    ]
+}, {
+    "name": "widgets",
+    "modules": [
+        "cs!js/four"
+    ]
+}]
